@@ -1,4 +1,4 @@
 # CodeUI
 
 First screen: 
-![alt text](https://github.com/pavellevap123/CodeUI/blob/main/screenShot1.png?raw=true)
+![alt text](https://www.photobox.co.uk/my/photo/full?photo_id=504180054625)
