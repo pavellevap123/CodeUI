@@ -14,6 +14,7 @@
 		BA5C24CA2727501D00089723 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA5C24C92727501D00089723 /* Assets.xcassets */; };
 		BA5C24CD2727501D00089723 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA5C24CB2727501D00089723 /* LaunchScreen.storyboard */; };
 		BA5C24D5272750EC00089723 /* Black-BMW-iPhone-Wallpaper.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA5C24D4272750EC00089723 /* Black-BMW-iPhone-Wallpaper.jpg */; };
+		BA5C24D92727E6AA00089723 /* screenShot1.png in Resources */ = {isa = PBXBuildFile; fileRef = BA5C24D82727E6AA00089723 /* screenShot1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BA5C24CC2727501D00089723 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BA5C24CE2727501D00089723 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BA5C24D4272750EC00089723 /* Black-BMW-iPhone-Wallpaper.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Black-BMW-iPhone-Wallpaper.jpg"; sourceTree = "<group>"; };
+		BA5C24D82727E6AA00089723 /* screenShot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenShot1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				BA5C24D4272750EC00089723 /* Black-BMW-iPhone-Wallpaper.jpg */,
 				BA5C24CB2727501D00089723 /* LaunchScreen.storyboard */,
 				BA5C24CE2727501D00089723 /* Info.plist */,
+				BA5C24D82727E6AA00089723 /* screenShot1.png */,
 			);
 			path = CodeUI;
 			sourceTree = "<group>";
@@ -131,6 +134,7 @@
 				BA5C24CA2727501D00089723 /* Assets.xcassets in Resources */,
 				BA5C24D5272750EC00089723 /* Black-BMW-iPhone-Wallpaper.jpg in Resources */,
 				BA5C24C82727501B00089723 /* Main.storyboard in Resources */,
+				BA5C24D92727E6AA00089723 /* screenShot1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
