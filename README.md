@@ -6,4 +6,4 @@ First screen:
 
 Second screen:
 
-![Simulator Screen Shot - iPhone 12 - 2021-10-29 at 18 46 36](https://user-images.githubusercontent.com/52162983/139464847-9c3d2160-a15c-402a-8888-9885212cd2e6.png)
+![Hnet com-image](https://user-images.githubusercontent.com/52162983/139464984-fb587a62-68b3-454b-8025-fc8e7732d8c7.png)
